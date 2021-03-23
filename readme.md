@@ -23,7 +23,10 @@ npm install ke-cli-todo
 ```javascript
 todo add
 ```
-![cli-1](https://user-images.githubusercontent.com/24629158/112186201-4a8e4780-8bd7-11eb-982a-2cd9db42cdd5.gif)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/24629158/112186201-4a8e4780-8bd7-11eb-982a-2cd9db42cdd5.gif">
+</p>
 
 <hr>
 
@@ -40,7 +43,9 @@ todo view
 todo ls
 ```
 
-![cli-2](https://user-images.githubusercontent.com/24629158/112187324-61816980-8bd8-11eb-8323-90e5f32817f2.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/24629158/112187324-61816980-8bd8-11eb-8323-90e5f32817f2.gif">
+</p>
 
 <hr>
 
@@ -54,6 +59,7 @@ todo del
 
 <p>Select the tasks by pressing the space bar and once you have selected all desired tasks to delete press ENTER.</p>
 
-![cli-3](https://user-images.githubusercontent.com/24629158/112187768-c50b9700-8bd8-11eb-9aaa-15d36c2735db.gif)
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/24629158/112187768-c50b9700-8bd8-11eb-9aaa-15d36c2735db.gif">
+</p>
